@@ -4,7 +4,7 @@ function Resume() {
     return (
       <div>
         <embed
-          src={pdf} // Use the imported PDF file as the source
+          src={pdf}
           type="application/pdf"
           width="100%"
           height="10000px"

@@ -25,7 +25,8 @@ function About() {
                 <div className="vl four">
                     <div className="cont">
                         Hello, I’m a Software Engineer<br></br>
-                        specializing in Full Stack Development.<br></br>
+                        proficient in specializing <br></br>
+                        Full Stack Development.<br></br>
                         Transforming conceptual ideas <br></br>
                         into code implementation.<br></br><br></br>
                         Assembling a tesseract of<br></br>
