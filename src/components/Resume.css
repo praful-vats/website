@@ -1,0 +1,8 @@
+.resume__container {
+    height: 100vh !important;
+    width: 100vw !important;
+    overflow: hidden !important;
+    background-color: #fff !important; /* Override global styles */
+    margin: 0 !important; /* Override global margin */
+  }
+  
